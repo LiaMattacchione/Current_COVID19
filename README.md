@@ -23,6 +23,18 @@
 * WHEN I click on About Us
   * THEN I am taken to another page that briefly describes why this app was created and information about the developers.
 
+## Technologies
+* HTML
+* CSS
+* Javascript
+
+## APIs
+* UIkit
+* jquery
+
+## Resources
+* Deployed application: https://liamattacchione.github.io/Current_COVID19/
+* GitHub repository: https://github.com/LiaMattacchione/Current_COVID19.git
 
 Below is an example screenshot of the application:
 ![COVID Dashboard Hero Screenshot](./assets/images/HeroHome.png)
@@ -30,9 +42,4 @@ Below is an example screenshot of the application:
 ![COVID Dashboard Newsletter Page](./assets/images/Newsletter.png)
 
 
-## Review
-Submition requirements for review:
-
-* [URL of the deployed application] (https://bootcampproject.github.io/Group5-COVID-Coders/)
-* [URL of the GitHub repository] (https://github.com/BootcampProject/Group5-COVID-Coders.git)
 
