@@ -22,7 +22,7 @@ $(document).ready(function(){
             "url": "https://coronavirus-smartable.p.rapidapi.com/stats/v1/CA/",
             "method": "GET",
             "headers": {
-                "x-rapidapi-key": "95f51c5453mshb345dad497f1eaep1f9a07jsnf240c760a4c2",
+                "x-rapidapi-key": "6038e42c6emsh499780888062a02p1193d9jsn09630fe3e66d",
                 "x-rapidapi-host": "coronavirus-smartable.p.rapidapi.com"
             }
         };
